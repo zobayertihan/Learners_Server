@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "C/C++"
+    },
+    {
+        "id": "02",
+        "name": "JAVA"
+    },
+    {
+        "id": "03",
+        "name": "Python"
+    },
+    {
+        "id": "04",
+        "name": ".net FrameWork"
+    },
+    {
+        "id": "05",
+        "name": "React FrameWork"
+    },
+    {
+        "id": "06",
+        "name": "PHP Laravel FrameWork"
+    }
+]
