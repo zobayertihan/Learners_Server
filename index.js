@@ -20,11 +20,17 @@ app.get('/course', (req, res) => {
     res.send(course);
 })
 
-// app.get('/course/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedCourse = course.find(n => n._id === id)
-//     res.send(selectedCourse);
-// })
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourses = courses.find(n => n.id === id)
+    res.send(selectedCourses);
+})
+
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = course.find(n => n.id === id)
+    res.send(selectedCourse);
+})
 
 
 // app.get('/courses/:id', (req, res) => {
