@@ -1,26 +1,32 @@
 [
     {
         "id": "01",
-        "name": "C/C++"
+        "name": "C/C++",
+        "image": "/data/assets/c_c++.png"
     },
     {
         "id": "02",
-        "name": "JAVA"
+        "name": "JAVA",
+        "image": "/data/assets/java.jpg"
     },
     {
         "id": "03",
-        "name": "Python"
+        "name": "Python",
+        "image": "/data/assets/python.jpg"
     },
     {
         "id": "04",
-        "name": ".net FrameWork"
+        "name": ".net FrameWork",
+        "image": "/data/assets/dotnet.png"
     },
     {
         "id": "05",
-        "name": "React FrameWork"
+        "name": "React FrameWork",
+        "image": "/data/assets/react.png"
     },
     {
         "id": "06",
-        "name": "PHP Laravel FrameWork"
+        "name": "PHP Laravel FrameWork",
+        "image": "/data/assets/laravel.png"
     }
 ]
